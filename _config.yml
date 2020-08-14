@@ -13,7 +13,7 @@ name                     : &name "Hangyu Li"
 description              : &description "Upcoming M.S. student, Electrical and Computer Engineering Department, Carnegie Mellon University"
 url                      : https://lhy9816.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lhy9816/lhy9816.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hangyu Li"
-  avatar           : "hangyul.png"
+  avatar           : "hangyul.jpg"
   bio              : "Upcoming M.S. student, Electrical and Computer Engineering Department, Carnegie Mellon University"
   location         : "Haidian, Beijing"
   employer         :
