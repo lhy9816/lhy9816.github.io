@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-<img src="D:\原F盘\出国\Personal Website\lhy9816.github.io\images\general_logo.png" align="left" width="200">
+<img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/general_logo.png" align="left" width="200">
 
 ```
 <b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
@@ -17,11 +17,11 @@ author_profile: true
 
 
 
-<img src="D:\原F盘\出国\Personal Website\lhy9816.github.io\images\separation_res-1.png" align="left" width="200">
+<img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/separation_res-1.png" align="left" width="200">
 
 
 
-<img src="D:\原F盘\出国\Personal Website\lhy9816.github.io\images\singing_voice_praats.png" align="left" width="200">
+<img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/singing_voice_praats.png" align="left" width="200">
 
 
 
