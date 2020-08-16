@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
++ I am an upcoming M.S. student in the [Electrical and Computer Engineering Department](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I will be there in 2021 Spring.
++ My research interests lie in the application of machine learning algorithms, particularly deep learning algorithms in natural language processing (text generation and knowledge base question answering) and musical information retrieval (singing voice separation & alignment and music generation). 
++ I received my Bachelor's Degree in [Beihang University](https://www.buaa.edu.cn/). My undergraduate advisors are Prof. [Xiaoou Chen](https://www.icst.pku.edu.cn/szypxxclsys/index.htm), Prof. [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/) and Prof. [Richong Zhang](http://scse.buaa.edu.cn/info/1079/2717.htm).
+
++ I hope to be a skillful software engineer and bring state-of-the-art deep learning algorithms to daily products. I am a crazy fan for sports and music who has played basketball for over 14 years and keyboard since 2003.
 
 A data-driven personal website
 ======
