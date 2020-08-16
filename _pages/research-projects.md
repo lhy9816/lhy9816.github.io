@@ -9,12 +9,6 @@ author_profile: true
 
 <img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/general_logo.png" align="left" width="200">
 
-```
-<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
-<b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
-<i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
-```
-
 
 
 <img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/separation_res-1.png" align="left" width="200">
