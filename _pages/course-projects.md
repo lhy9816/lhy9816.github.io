@@ -26,7 +26,6 @@ author_profile: true
 
 
 
-|                                                              |                                                              |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | <img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/arch.png" align="left" width="500"> | <font face="Times New Roman" color=black size=5>Physical Adversarial Attack</font><br> A course project about generating patches to fool object-detection algorithm based surveillance cameras. |
 | <img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/compiler_01.png" align="left" width="500"> | <font face="Times New Roman" color=black size=5>C0 Compiler</font><br> C0 Compiler is a naive-C compiler which includes basic structures of a normal compiler. such as lexical analysis, syntax analysis, semantic analysis, symbom tab consturction, mid-code generation, object-code generation and some selected optimization. |
