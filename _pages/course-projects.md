@@ -17,11 +17,11 @@ Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Serge
 <table border="1" rules="None" frame="void">
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/arch.png" align="left" width="300"></td>
-		<td><a href="http://lantaoyu.com/publications/MOPO"><b><font font-weight=bold color=black size=5 >Physical Adversarial Attack</font></b></a><br> A course project about generating patches to fool object-detection algorithm based surveillance cameras. </td>
+		<td><a href="http://lantaoyu.com/publications/MOPO"><font font-weight=bold color=blue size=5 >Physical Adversarial Attack</font></a><br> A course project about generating patches to fool object-detection algorithm based surveillance cameras. </td>
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/compiler_01.png" align="left" width="300"></td>
-		<td><b><font  color=black size=5>C0 Compiler</font></b><br> C0 Compiler is a naive-C compiler which includes basic structures of a normal compiler. such as lexical analysis, syntax analysis, semantic analysis, symbom tab consturction, mid-code generation, object-code generation and some selected optimization.</td>
+		<td><font  color=blue size=5>C0 Compiler</font><br> C0 Compiler is a naive-C compiler which includes basic structures of a normal compiler. such as lexical analysis, syntax analysis, semantic analysis, symbom tab consturction, mid-code generation, object-code generation and some selected optimization.</td>
 	</tr>
 </table>
 
