@@ -14,7 +14,7 @@ Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Serge
 <i>ArXiv 2020</i>.
 
 
-<table border="1" rules=None frame=void>
+<table border="1" rules="None" frame="void">
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/lhy9816/lhy9816.github.io/master/images/arch.png" align="left" width="300"></td>
 		<td><a href="http://lantaoyu.com/publications/MOPO"><b><font font-weight=bold color=black size=5 >Physical Adversarial Attack</font></b></a><br> A course project about generating patches to fool object-detection algorithm based surveillance cameras. </td>
